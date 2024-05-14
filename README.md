@@ -13,3 +13,8 @@ Usage:
 ruby shaman.rb [-i]
 where:
 -i indicates an image search is needed 
+
+Notes:
+There are two batch files that wrap the ruby script and flags.
+-Album Cover.bat - adds the -i flag and the terms album cover to the query
+-Track Listing.bat - addes the terms track listing to the query being searched
