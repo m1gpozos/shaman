@@ -1,0 +1,1 @@
+ruby shaman.rb -i %* album cover
