@@ -16,5 +16,8 @@ where:
 
 Notes:
 There are two batch files that wrap the ruby script and flags.
+
 -Album Cover.bat - adds the -i flag and the terms album cover to the query
--Track Listing.bat - addes the terms track listing to the query being searched
+-Track Listing.bat - adds the terms track listing to the query being searched
+
+Works well enough, when inspiration hits (if ever) I'll look into the Chrome webdriver options to suppress notifications
